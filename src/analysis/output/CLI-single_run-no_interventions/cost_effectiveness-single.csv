@@ -1,0 +1,3 @@
+run,Total cost non-intervention,Treatment costs - non-intervention,Complication costs - non-intervention,Intervention costs - non-intervention,QALY non-intervention,Total cost intervention,Treatment costs - intervention,Complication costs - intervention,Intervention costs - intervention,QALY intervention,Cost increment,QALY increment,ICER,ICER: mean inc Cost / mean inc QALY,Remaining LY non-intervention,Remaining LY intervention,LY increment
+0001,189108.6,67361.7,121746.9,0.0,8.8323,189108.6,67361.7,121746.9,0.0,8.8323,0.0,0.0,0.0,,20.0722,20.0722,0.0
+mean,189108.6,67361.7,121746.9,0.0,8.8323,189108.6,67361.7,121746.9,0.0,8.8323,0.0,0.0,0.0,0.0,20.0722,20.0722,0.0

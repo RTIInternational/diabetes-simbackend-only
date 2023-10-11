@@ -1,0 +1,3 @@
+group,amputation,angina,blindness,chf,death,dialysis,egfr_30,egfr_60,hypoglycemia_any,hypoglycemia_medical,intervention,laser_retina,macroalbuminuria,mi,microalbuminuria,neurop,person_years,revasc,stroke,ulcer
+intervention--0001,375,1234,2923,1741,10000,951,1616,3443,2069,3727,1,3193,3810,1540,5257,8725,200722,2571,914,2925
+non-intervention--0001,375,1234,2923,1741,10000,951,1616,3443,2069,3727,0,3193,3810,1540,5257,8725,200722,2571,914,2925

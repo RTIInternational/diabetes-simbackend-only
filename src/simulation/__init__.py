@@ -1,0 +1,19 @@
+EVENTS = [
+    "blindness",
+    "first_amputation_no_ulcer",
+    "first_amputation_prior_ulcer",
+    "fist_chf",
+    "first_ihd",
+    "first_mi",
+    "first_stroke",
+    "renal_failure",
+    "second_amputation",
+    "second_amputation",
+    "second_mi",
+    "second_stroke",
+    "ulcer",
+    "death_no_history_no_events",
+    "death_history_no_events",
+    "death_first_year_of_events",
+    "death_subsequent_years_of_events"
+]
